@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/account-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bot-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bot-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common-lib" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/company-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/company-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/faraday" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ical-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mail-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/sms-svc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/web-app" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/whoami-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/whoami-svc" charset="UTF-8" />
+  </component>
+</project>
