@@ -1,0 +1,6 @@
+xyz/staffjoy/web/controller/ActivateControllerTest.class
+xyz/staffjoy/web/controller/SignupControllerTest.class
+xyz/staffjoy/web/controller/PasswordResetControllerTest.class
+xyz/staffjoy/web/controller/LoginControllerTest.class
+xyz/staffjoy/web/controller/ConfirmResetControllerTest.class
+xyz/staffjoy/web/controller/NewCompanyControllerTest.class

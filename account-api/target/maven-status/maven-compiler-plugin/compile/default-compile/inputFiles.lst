@@ -1,0 +1,15 @@
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/EmailChangeRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/VerifyPasswordRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/GenericAccountResponse.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/CreateAccountRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/AccountDto.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/AccountConstant.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/UpdatePasswordRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/TrackEventRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/SyncUserRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/AccountList.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/GetOrCreateRequest.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/EmailConfirmation.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/ListAccountResponse.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/client/AccountClient.java
+/Users/user/Documents/github/staffjoy/account-api/src/main/java/xyz/staffjoy/account/dto/PasswordResetRequest.java

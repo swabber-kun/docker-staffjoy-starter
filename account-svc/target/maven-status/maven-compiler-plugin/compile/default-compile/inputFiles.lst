@@ -1,0 +1,11 @@
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/controller/AccountController.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/repo/AccountRepo.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/service/helper/ServiceHelper.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/AccountApplication.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/config/AppConfig.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/props/AppProps.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/model/Account.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/repo/AccountSecretRepo.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/service/AccountService.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/config/SwaggerConfig.java
+/Users/user/Documents/github/staffjoy/account-svc/src/main/java/xyz/staffjoy/account/model/AccountSecret.java

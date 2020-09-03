@@ -1,0 +1,17 @@
+xyz/staffjoy/company/repo/WorkerRepoTest.class
+xyz/staffjoy/company/controller/WorkerControllerTest.class
+xyz/staffjoy/company/repo/AdminRepoTest.class
+xyz/staffjoy/company/repo/DirectoryRepoTest.class
+xyz/staffjoy/company/controller/JobControllerTest.class
+xyz/staffjoy/company/controller/CompanyControllerTest.class
+xyz/staffjoy/company/repo/ShiftRepoTest.class
+xyz/staffjoy/company/controller/ut/CompanyControllerUnitTest.class
+xyz/staffjoy/company/controller/TeamControllerTest.class
+xyz/staffjoy/company/controller/AdminControllerTest.class
+xyz/staffjoy/company/repo/JobRepoTest.class
+xyz/staffjoy/company/TestConfig.class
+xyz/staffjoy/company/repo/CompanyRepoTest.class
+xyz/staffjoy/company/TestConfig$1.class
+xyz/staffjoy/company/controller/DirectoryControllerTest.class
+xyz/staffjoy/company/controller/ShiftControllerTest.class
+xyz/staffjoy/company/repo/TeamRepoTest.class
