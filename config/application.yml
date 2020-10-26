@@ -5,8 +5,8 @@ staffjoy:
     sentry-dsn: https://80bbf4ae778b525f9fe72e2813cd5246@sentry.io/1271087
   signing-secret: secret
   intercom-access-token: 11111
-  aliyun-access-key: LTAI4G9696e81CxLqnPPHPn5
-  aliyun-access-secret: yoeqgUqVbRaWxcVY8izMikkdqwETX3
+  aliyun-access-key: 11111
+  aliyun-access-secret: 11111
   aliyun-sms-sign-name: 11111
   intercom-app-id: YOUR-INTERCOM-APP-ID
   intercom-signing-secret: YOUR-INTERCOM-SIGNING-SECRET
