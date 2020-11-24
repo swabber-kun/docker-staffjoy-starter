@@ -1,5 +1,5 @@
-/Users/user/Documents/github/staffjoy/account-svc/src/test/java/xyz/staffjoy/account/repo/AccountRepoTest.java
-/Users/user/Documents/github/staffjoy/account-svc/src/test/java/xyz/staffjoy/account/service/helper/ServiceHelperTest.java
-/Users/user/Documents/github/staffjoy/account-svc/src/test/java/xyz/staffjoy/account/service/AccountServiceTest.java
-/Users/user/Documents/github/staffjoy/account-svc/src/test/java/xyz/staffjoy/account/controller/AccountControllerTest.java
-/Users/user/Documents/github/staffjoy/account-svc/src/test/java/xyz/staffjoy/account/TestConfig.java
+/Users/user/Documents/github/docker-staffjoy-starter/account-svc/src/test/java/xyz/staffjoy/account/service/AccountServiceTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/account-svc/src/test/java/xyz/staffjoy/account/service/helper/ServiceHelperTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/account-svc/src/test/java/xyz/staffjoy/account/repo/AccountRepoTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/account-svc/src/test/java/xyz/staffjoy/account/TestConfig.java
+/Users/user/Documents/github/docker-staffjoy-starter/account-svc/src/test/java/xyz/staffjoy/account/controller/AccountControllerTest.java

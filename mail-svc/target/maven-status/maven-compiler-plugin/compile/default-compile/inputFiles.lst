@@ -1,5 +1,5 @@
-/Users/user/Documents/github/staffjoy/mail-svc/src/main/java/xyz/staffjoy/mail/config/AppConfig.java
-/Users/user/Documents/github/staffjoy/mail-svc/src/main/java/xyz/staffjoy/mail/controller/MailController.java
-/Users/user/Documents/github/staffjoy/mail-svc/src/main/java/xyz/staffjoy/mail/service/MailSendService.java
-/Users/user/Documents/github/staffjoy/mail-svc/src/main/java/xyz/staffjoy/mail/props/AppProps.java
-/Users/user/Documents/github/staffjoy/mail-svc/src/main/java/xyz/staffjoy/mail/MailApplication.java
+/Users/user/Documents/github/docker-staffjoy-starter/mail-svc/src/main/java/xyz/staffjoy/mail/controller/MailController.java
+/Users/user/Documents/github/docker-staffjoy-starter/mail-svc/src/main/java/xyz/staffjoy/mail/service/MailSendService.java
+/Users/user/Documents/github/docker-staffjoy-starter/mail-svc/src/main/java/xyz/staffjoy/mail/MailApplication.java
+/Users/user/Documents/github/docker-staffjoy-starter/mail-svc/src/main/java/xyz/staffjoy/mail/props/AppProps.java
+/Users/user/Documents/github/docker-staffjoy-starter/mail-svc/src/main/java/xyz/staffjoy/mail/config/AppConfig.java

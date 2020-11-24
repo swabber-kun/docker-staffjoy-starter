@@ -1,6 +1,6 @@
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/PasswordResetControllerTest.java
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/LoginControllerTest.java
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/ActivateControllerTest.java
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/SignupControllerTest.java
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/ConfirmResetControllerTest.java
-/Users/user/Documents/github/staffjoy/web-app/src/test/java/xyz/staffjoy/web/controller/NewCompanyControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/PasswordResetControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/ActivateControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/LoginControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/ConfirmResetControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/SignupControllerTest.java
+/Users/user/Documents/github/docker-staffjoy-starter/web-app/src/test/java/xyz/staffjoy/web/controller/NewCompanyControllerTest.java

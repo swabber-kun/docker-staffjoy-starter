@@ -8,7 +8,6 @@
         <outputRelativeToContentRoot value="true" />
         <module name="sms-svc" />
         <module name="bot-api" />
-        <module name="bot-svc" />
         <module name="whoami-svc" />
         <module name="common-lib" />
         <module name="mail-api" />
@@ -18,8 +17,9 @@
         <module name="account-svc" />
         <module name="account-api" />
         <module name="company-api" />
-        <module name="mail-svc" />
+        <module name="bot-svc" />
         <module name="whoami-api" />
+        <module name="mail-svc" />
         <module name="company-svc" />
         <module name="web-app" />
       </profile>
